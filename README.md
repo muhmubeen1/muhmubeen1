@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software developer known for innovative solutions and dedication to creating exceptional software and a dedicated cybersecurity engineer with a passion for protecting digital assets and data from the ever-evolving landscape of cyber threats.</h3>
 
 <p align="left"> <a href="https://twitter.com/ashrafmubeen321" target="blank"><img src="https://img.shields.io/twitter/follow/ashrafmubeen321?logo=twitter&style=for-the-badge" alt="ashrafmubeen321" /></a> </p>
-<img align="right" alt="Coding" width="400" https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21jNWp4ZXg0MGpvN251b2JjOGVsemY4aW13Zm90bGtteDFmMGF5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 - 🌱 I’m currently learning **Blockchain Development**
 
 - 💬 Ask me about **Development and Cybersecurity**
