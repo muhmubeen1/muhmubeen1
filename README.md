@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **muhmubeen1@gmail.com**
 
-- ⚡ Fun fact **I am Gaming Guy**
+- ⚡ Fun fact **I'm Gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
