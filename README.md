@@ -4,15 +4,15 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mubeen</h1>
 <br>
 
-<p align ="center" style: font-size:18px >Passionate Python developer with experience in building web applications. Currently diving into Flutter to expand my skills in mobile app development. Always eager to learn and contribute to open-source projects.</p>
+<p align ="center" style: font-size:18px >Passionate Backend Developer with experience in Node.js, Django, and Go. Currently exploring AI & ML while building scalable apps and APIs. Always eager to learn and contribute to impactful projects.</p>
 <br>
 <br>
 </h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- 🌱 I’m currently learning **Flutter Development**
+- 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **Python, Flutter**
+- 💬 Ask me about **Python, Flutte ,NodeJS, API's**
 
 - 📫 How to reach me **muhmubeen1@gmail.com**
 
