@@ -21,6 +21,11 @@
   <img src="https://skillicons.dev/icons?i=python,js,cpp,go,nodejs,express,django,graphql,mongodb,postgres,redis" />
 </p>
 
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,graphql,mongodb,postgres,redis" />
+</p>
+
 **DevOps & Infrastructure**
 <p>
   <img src="https://skillicons.dev/icons?i=linux,git,docker,githubactions,nginx" />
