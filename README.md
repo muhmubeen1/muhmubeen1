@@ -18,7 +18,7 @@
 
 **Languages & Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,go,nodejs,express,django,graphql,mongodb,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,go" />
 </p>
 
 **Backend**
