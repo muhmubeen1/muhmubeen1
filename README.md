@@ -1,66 +1,98 @@
-<h1 align="center">Hi 👋, I'm Muhammad Mubeen</h1>
-<h3 align="center">Backend Engineer • DevOps Learner • AI Systems Builder</h3>
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Muhammad+Mubeen;Backend+Engineer;DevOps+%7C+Scalable+Systems;AI+Systems+%7C+Distributed+Architecture" />
+</p>
+
+<h3 align="center">Systems-Focused Engineer Building Scalable Backend & Intelligent Architectures</h3>
+
+---
+
+## 🧠 Professional Summary
+
+Backend & systems-oriented engineer focused on building **scalable backend infrastructures, distributed systems, and AI-powered applications** with clean architecture and production-grade reliability.
+
+Currently advancing expertise in:
+
+- DevOps & Automation  
+- Distributed Systems  
+- Infrastructure & Reliability  
+- Agentic & Generative AI Engineering  
+- Performance Optimization  
+
+---
+
+# 💻 Tech Stack
+
+## 🚀 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,go" />
+</p>
+
+## ⚙️ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,graphql,mongodb,postgres,redis" />
+</p>
+
+- REST API Architecture  
+- JWT Authentication  
+- Scalable Backend Design  
+
+## 🤖 AI & Intelligent Systems
+
+- Generative AI Applications  
+- Agentic AI Workflows  
+- LangChain • LangGraph  
+- Prompt Engineering  
+- Machine Learning (Scikit-learn, Pandas, Matplotlib)  
+- CNN • K-Means Clustering  
+
+## 🖥 DevOps & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,githubactions,nginx" />
+</p>
+
+- CI/CD Fundamentals  
+- System Design Principles  
+- Chaos Engineering Concepts  
+
+## 📱 Frontend & Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,firebase" />
+</p>
+
+- REST API Integration  
+- Google Maps API  
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-I build scalable backend architectures, intelligent systems, and production-ready applications with a focus on clean design, reliability, and performance.
+  <img src="https://github-readme-stats.vercel.app/api?username=muhmubeen1&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhmubeen1&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhmubeen1&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🧠 Core Focus
-
-- Backend Engineering  
-- DevOps & Infrastructure  
-- Scalable System Design  
-- Agentic & Generative AI Systems  
-- Distributed Architectures  
-- Performance & Reliability Engineering  
-
----
-
-## 💻 Tech Stack
-
-### 🔹 Languages
-`Python` • `JavaScript` • `C++` • `Go (Learning)`
-
-### 🔹 Frontend & Mobile
-`React` • `Flutter` • `Firebase`  
-REST API Integration • Google Maps API
-
-### 🔹 Backend
-`Node.js` • `Express.js` • `Django`  
-REST APIs • GraphQL • JWT Authentication  
-`MongoDB` • `PostgreSQL` • `Redis`
-
-### 🔹 AI & Intelligent Systems
-Generative AI Applications  
-Agentic AI Workflows  
-`LangChain` • `LangGraph`  
-Prompt Engineering  
-Machine Learning (`Scikit-learn`, `Pandas`, `Matplotlib`)  
-CNN • K-Means Clustering
-
-### 🔹 DevOps & Systems
-`Linux` • `Git` • `Docker`  
-CI/CD Fundamentals • `GitHub Actions`  
-`Nginx` • `Redis`  
-System Design Principles  
-Chaos Engineering Concepts  
-
----
-
-## 🛠 Tools
+# 🛠 Tools
 
 `VS Code` • `Postman` • `MongoDB Compass` • `pgAdmin` • `WSL`
 
 ---
 
-## 📌 Current Direction
+# 🎯 Current Direction
 
-Building production-grade backend systems while advancing in DevOps practices, distributed architectures, and AI-powered applications using modern frameworks and scalable infrastructure patterns.
+Designing production-ready backend systems and AI-powered applications while strengthening expertise in DevOps practices, distributed architectures, and scalable infrastructure patterns.
 
 ---
 
 <p align="center">
-⚡ Build systems that scale. Engineer software that lasts.
+⚡ Engineer Systems That Scale • Build Software That Endures
 </p>
