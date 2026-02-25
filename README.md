@@ -10,24 +10,6 @@ Currently deepening my expertise in DevOps, distributed systems, and production-
 
 ---
 
-## 📫 Contact
-
-<p align="center">
-  <a href="mailto:muhmubeen1@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/muhmubeen1/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/mubeen___1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p>
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
