@@ -1,11 +1,12 @@
 <h1 align="center">Muhammad Mubeen</h1>
-<h3 align="center">Backend • DevOps • AI Systems</h3>
+<h3 align="center">Backend • Mobile & Web Dev • AI Systems</h3>
 
 ---
 
 ## 🧠 About
 
-I build scalable backend systems and intelligent applications with a focus on clean architecture, reliability, and performance.  
+I build scalable backend systems and intelligent applications with a focus on clean architecture, reliability, and performance.
+
 Currently deepening my expertise in DevOps, distributed systems, and production-ready AI engineering.
 
 ---
@@ -36,26 +37,6 @@ Currently deepening my expertise in DevOps, distributed systems, and production-
 ### Frontend & Mobile
 <p>
   <img src="https://skillicons.dev/icons?i=react,flutter,firebase" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhmubeen1&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhmubeen1&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 💬 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
