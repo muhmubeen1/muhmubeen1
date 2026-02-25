@@ -1,71 +1,50 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Muhammad+Mubeen;Backend+Engineer;DevOps+%7C+Scalable+Systems;AI+Systems+%7C+Distributed+Architecture" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Muhammad+Mubeen;Backend+Engineer;DevOps+%7C+Scalable+Systems;AI+Systems" />
 </p>
 
-<h3 align="center">Systems-Focused Engineer Building Scalable Backend & Intelligent Architectures</h3>
+<h3 align="center">Backend • DevOps • AI Systems</h3>
 
 ---
 
-## 🧠 Professional Summary
+## 🧠 About
 
-Backend & systems-oriented engineer focused on building **scalable backend infrastructures, distributed systems, and AI-powered applications** with clean architecture and production-grade reliability.
-
-Currently advancing expertise in:
-
-- DevOps & Automation  
-- Distributed Systems  
-- Infrastructure & Reliability  
-- Agentic & Generative AI Engineering  
-- Performance Optimization  
+I build scalable backend systems and intelligent applications with a focus on clean architecture, reliability, and performance.  
+Currently deepening my expertise in DevOps, distributed systems, and production-ready AI engineering.
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-## 🚀 Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,cpp,go" />
 </p>
 
-## ⚙️ Backend & Databases
+### Backend & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,graphql,mongodb,postgres,redis" />
 </p>
 
-- REST API Architecture  
-- JWT Authentication  
-- Scalable Backend Design  
-
-## 🤖 AI & Intelligent Systems
-
-- Generative AI Applications  
-- Agentic AI Workflows  
-- LangChain • LangGraph  
-- Prompt Engineering  
-- Machine Learning (Scikit-learn, Pandas, Matplotlib)  
-- CNN • K-Means Clustering  
-
-## 🖥 DevOps & Infrastructure
+### DevOps & Infrastructure
 <p>
   <img src="https://skillicons.dev/icons?i=linux,git,docker,githubactions,nginx" />
 </p>
 
-- CI/CD Fundamentals  
-- System Design Principles  
-- Chaos Engineering Concepts  
+### AI & ML
+- Generative AI Applications  
+- Agentic Workflows  
+- LangChain • LangGraph  
+- Scikit-learn • Pandas • CNN  
 
-## 📱 Frontend & Mobile
+### Frontend & Mobile
 <p>
   <img src="https://skillicons.dev/icons?i=react,flutter,firebase" />
 </p>
 
-- REST API Integration  
-- Google Maps API  
-
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhmubeen1&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -75,24 +54,8 @@ Currently advancing expertise in:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhmubeen1&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhmubeen1&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 🛠 Tools
-
-`VS Code` • `Postman` • `MongoDB Compass` • `pgAdmin` • `WSL`
-
----
-
-# 🎯 Current Direction
-
-Designing production-ready backend systems and AI-powered applications while strengthening expertise in DevOps practices, distributed architectures, and scalable infrastructure patterns.
-
 ---
 
 <p align="center">
-⚡ Engineer Systems That Scale • Build Software That Endures
+⚡ Building systems that scale.
 </p>
