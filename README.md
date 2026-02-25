@@ -1,12 +1,11 @@
-<h1 align="center">Muhammad Mubeen</h1>
-<h3 align="center">Backend • DevOps • AI Systems</h3>
+<h1 align="center">Hey 👋 I'm Muhammad Mubeen</h1>
 
 ---
 
 ## 🧠 About
 
 - I build and scale backend systems and intelligent applications designed for reliability, performance, and real-world production environments.  
-- My focus spans the full engineering lifecycle — from system design and API architecture to deployment and infrastructure optimization.  
+- My focus spans the full engineering lifecycle  from system design and API architecture to deployment and infrastructure optimization.  
 - I am deeply interested in building distributed systems that are scalable, observable, and resilient by design.  
 - My AI work centers on generative applications and agentic workflows that integrate clean backend architecture with intelligent automation.  
 - I believe production software must be maintainable, measurable, and designed with long-term scalability in mind.  
