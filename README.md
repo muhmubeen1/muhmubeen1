@@ -14,6 +14,24 @@ Currently deepening my expertise in DevOps, distributed systems, and production-
 
 ---
 
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:muhmubeen1@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/muhmubeen1/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/muhmubeen1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
 ## 💻 Tech Stack
 
 ### Languages
@@ -56,20 +74,10 @@ Currently deepening my expertise in DevOps, distributed systems, and production-
 
 ---
 
-## 📫 Contact
+## 💬 Dev Quote
 
 <p align="center">
-  <a href="mailto:yourmail@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/yourlinkedin">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
