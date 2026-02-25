@@ -1,8 +1,4 @@
-<!-- Animated Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Muhammad+Mubeen;Backend+Engineer;DevOps+%7C+Scalable+Systems;AI+Systems" />
-</p>
-
+<h1 align="center">Muhammad Mubeen</h1>
 <h3 align="center">Backend • DevOps • AI Systems</h3>
 
 ---
@@ -25,8 +21,8 @@ Currently deepening my expertise in DevOps, distributed systems, and production-
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;
-  <a href="https://github.com/muhmubeen1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://instagram.com/mubeen___1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
