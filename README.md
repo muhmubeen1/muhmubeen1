@@ -56,6 +56,24 @@ Currently deepening my expertise in DevOps, distributed systems, and production-
 
 ---
 
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:yourmail@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/yourlinkedin">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+
+---
+
 <p align="center">
 ⚡ Building systems that scale.
 </p>
